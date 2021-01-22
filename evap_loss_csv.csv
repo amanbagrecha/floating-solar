@@ -1,4 +1,4 @@
-﻿month,mean temperature,value of vapour pressure in hpa,vapour pressure in mmhg,saturated vapour pressure at given temp in mmHg,wind speed km/hr,evaporation,loss every month
+month,mean temperature (degrees),value of vapour pressure in hpa,vapour pressure in mmhg,saturated vapour pressure at given temp in mmHg,wind speed km/hr,evaporation,loss every month
 jan,20.587,22.14156667,12.72805,19.93415522,7.2042,3.762267902,1737313.198
 feb,22.9625,24.07713333,13.00854,22.41292701,7.25,4.919669955,2271770.051
 mar,25.6458,26.42684444,13.94799,25.77931072,7.325,6.209225005,2867251.571
